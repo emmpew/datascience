@@ -3,6 +3,9 @@
 capstone_project/test.csv
 capstone_project/train.csv
 
+capstone_project/cleaned_test_data.csv
+capstone_project/cleaned_train_data.csv
+
 # Checkpoints #
 ###############
 .ipynb_checkpoints
