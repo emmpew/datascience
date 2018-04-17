@@ -1,3 +1,3 @@
-# radial_disc
+# Racial Discrimination in the US Job Market
 
-Examining racial discrimination in the US job market using inferential statistics.
+Racial discrimination continues to be pervasive in cultures throughout the world. Researchers examined the level of racial discrimination in the United States labor market by randomly assigning identical résumés to black-sounding or white-sounding names and observing the impact on requests for interviews from employers. This project performs a statistical analysis to establish whether race has a significant impact on the rate of callbacks for resumes.
