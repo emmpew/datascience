@@ -1,0 +1,3 @@
+# Hospital Readmissions
+
+Examining hospital readmissions using inferential statistics. This project demonstrates a preliminary analysis of readmissions data and recommendations for reducing the readmissions rate. The data used in the project is from the [US government's Center for Medicare and Medicaid Services]( https://data.medicare.gov/Hospital-Compare/Hospital-Readmission-Reduction/9n3s-kdb3). Excess readmissions are measured by a ratio, by dividing a hospital’s number of “predicted” 30-day readmissions for heart attack, heart failure, and pneumonia by the number that would be “expected,” based on an average hospital with similar patients. A ratio greater than 1 indicates excess readmissions.
